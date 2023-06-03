@@ -5,84 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08a09965-2476-40d1-85f8-51f54520ee2e" name="Changes" comment="init">
-      <change afterPath="$PROJECT_DIR$/.idea/CustomInspectionsConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/intellij-javadocs-4.0.1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/declaration-generation/unreal-kotlin.declaration-generation.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/corrections/CorrectionEnvironment.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/corrections/Corrections.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/corrections/CorrectionsProvider.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/corrections/EnumCorrections.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/corrections/FileFinalization.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/corrections/NonClassMemberFileCorrections.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/corrections/StandardCorrections.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/corrections/UnnamedClassCorrections.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/AnnotationDeclaration.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/AnnotationDeclarationImpl.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/BaseJsNameDeclaration.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/ChildDeclaration.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/ClassDeclaration.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/ClassDeclarationImpl.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/ClassNameDeclaration.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/ClassNameDeclarationImpl.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/CodeDeclaration.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/CodeDeclarationImpl.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/Declaration.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/DeclarationMarker.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/DeclarationWithAnnotations.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/DeclarationWithJsName.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/DeclarationWithModifiers.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/DeclarationWithName.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/DynamicTypeNameDeclaration.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/Extensions.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/FileDeclaration.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/FileDeclarationImpl.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/FunctionDeclaration.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/FunctionDeclarationImpl.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/LambdaTypeNameDeclaration.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/LambdaTypeNameDeclarationImpl.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/PackageDeclaration.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/PackageDeclarationImpl.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/ParameterDeclaration.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/ParameterDeclarationImpl.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/ParameterizedTypeNameDeclaration.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/ParameterizedTypeNameDeclarationImpl.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/ParentDeclaration.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/PropertyDeclaration.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/PropertyDeclarationImpl.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/SuperInterfaceDeclaration.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/SuperInterfaceDeclarationImpl.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/TypeAliasDeclaration.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/TypeAliasDeclarationImpl.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/TypeNameDeclaration.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/TypeVariableNameDeclaration.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/TypeVariableNameDeclarationImpl.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/VarianceDeclaration.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/WildcardTypeNameDeclaration.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/WildcardTypeNameDeclarationImpl.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/parsing/ParsingContext.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/parsing/ParsingEnvironment.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/parsing/ParsingUtils.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/parsing/ParsingVisitor.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/parsing/ParsingVisitorContext.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/utility/ClassDependencies.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/utility/DeclarationGenerator.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/utility/GenerationEnvironment.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/utility/GenericsClass.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/utility/RenameData.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/utility/StringUtilities.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/utility/Utilities.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/declaration-generation/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unreal-kotlin/build.gradle.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unreal-kotlin/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unreal-kotlin/src/main/kotlin/com/detpros/unrealkotlin/DetonateProductions.kt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,6 +52,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -161,8 +86,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683393234827</updated>
-      <workItem from="1685833718838" duration="850000" />
+      <workItem from="1685833718838" duration="978000" />
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1685834633648</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685834633648</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
