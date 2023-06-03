@@ -18,4 +18,3 @@ dependencyResolutionManagement {
 }
 
 include("declaration-generation")
-include("unreal-kotlin-plugin")
