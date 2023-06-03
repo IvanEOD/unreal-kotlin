@@ -16,18 +16,17 @@ dependencies {
     implementation(kotlin("compiler-embeddable"))
     implementation(kotlin("reflect"))
     implementation("com.squareup:kotlinpoet:1.13.2")
-
-//    implementation(project(":declaration-generation"))
+    implementation(project(":declaration-generation"))
 }
 
-//
-//gradlePlugin {
-//    plugins {
-//        create("unreal-kotlin") {
-//            id = "unreal-kotlin"
-//            group = "com.detonate-productions.unreal-kotlin"
-//            version = "1.0.0"
-//            implementationClass = "com.detpros.plugin.UnrealKotlinPlugin"
-//        }
-//    }
-//}
+
+gradlePlugin {
+    plugins {
+        create("unreal-kotlin") {
+            id = "unreal-kotlin"
+            group = "com.detpros.unrealkotlin"
+            version = "1.0.0"
+            implementationClass = "com.detpros.unrealkotlin.UnrealKotlinPlugin"
+        }
+    }
+}
