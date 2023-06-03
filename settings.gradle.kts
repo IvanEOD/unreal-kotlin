@@ -1,3 +1,5 @@
+rootProject.name = "unreal-kotlin"
+
 pluginManagement {
     repositories {
         mavenCentral()
@@ -16,4 +18,4 @@ dependencyResolutionManagement {
 }
 
 include("declaration-generation")
-include("unreal-kotlin")
+include("unreal-kotlin-plugin")

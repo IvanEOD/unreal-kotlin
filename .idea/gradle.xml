@@ -8,7 +8,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/declaration-generation" />
-            <option value="$PROJECT_DIR$/unreal-kotlin" />
+            <option value="$PROJECT_DIR$/unreal-kotlin-plugin" />
           </set>
         </option>
       </GradleProjectSettings>
