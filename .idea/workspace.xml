@@ -5,19 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08a09965-2476-40d1-85f8-51f54520ee2e" name="Changes" comment="init">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unreal-kotlin-plugin/build.gradle.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unreal-kotlin-plugin/src/main/kotlin/com/detpros/unrealkotlin/UnrealKotlinCache.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/detpros/unrealkotlin/UnrealKotlinCache.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unreal-kotlin-plugin/src/main/kotlin/com/detpros/unrealkotlin/UnrealKotlinCommandLine.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/detpros/unrealkotlin/UnrealKotlinCommandLine.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unreal-kotlin-plugin/src/main/kotlin/com/detpros/unrealkotlin/UnrealKotlinExtension.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/detpros/unrealkotlin/UnrealKotlinExtension.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unreal-kotlin-plugin/src/main/kotlin/com/detpros/unrealkotlin/UnrealKotlinPlugin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/detpros/unrealkotlin/UnrealKotlinPlugin.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unreal-kotlin-plugin/src/main/kotlin/com/detpros/unrealkotlin/UnrealKotlinUtilities.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/detpros/unrealkotlin/UnrealKotlinUtilities.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unreal-kotlin-plugin/src/main/kotlin/com/detpros/unrealkotlin/tasks/DefaultGenerateTask.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/detpros/unrealkotlin/tasks/DefaultGenerateTask.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unreal-kotlin-plugin/src/main/kotlin/com/detpros/unrealkotlin/tasks/ProcessDukatOutput.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/detpros/unrealkotlin/tasks/ProcessDukatOutput.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unreal-kotlin-plugin/src/main/kotlin/com/detpros/unrealkotlin/tasks/ProcessWithDukat.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/detpros/unrealkotlin/tasks/ProcessWithDukat.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,12 +24,26 @@
         <task path="$PROJECT_DIR$/unreal-kotlin">
           <activation />
         </task>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
         <projects_view>
           <tree_state>
             <expand>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="unreal-kotlin" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="unreal-kotlin" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="unreal-kotlin" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
               </path>
             </expand>
             <select />
@@ -104,7 +107,7 @@
       <option name="presentableId" value="Default" />
       <updated>1683393234827</updated>
       <workItem from="1685833718838" duration="1492000" />
-      <workItem from="1685836024399" duration="239000" />
+      <workItem from="1685836024399" duration="443000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1685834633648</created>
@@ -134,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685835189199</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="init">
+      <created>1685836284228</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1685836284228</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

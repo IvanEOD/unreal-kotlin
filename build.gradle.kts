@@ -52,21 +52,20 @@ gradlePlugin {
 }
 
 tasks.register("pushNextVersion") {
+    group = "git"
     doLast {
         val v = project.version as String
         val versionParts = v.split(".")
         val nextVersion = "${versionParts[0]}.${versionParts[1]}.${versionParts[2].toInt() + 1}"
         println("Next version: $nextVersion")
         project.version = nextVersion
-        val buildGradle = project.file("build.gradle.kts")
-        val buildGradleText = buildGradle.readText()
-        val newBuildGradleText = buildGradleText.replace("version = \"${v}\"", "version = \"${nextVersion}\"")
-        buildGradle.writeText(newBuildGradleText)
-
+        val gradleProperties = project.file("gradle.properties")
+        val gradlePropertiesText = gradleProperties.readText()
+        val newGradlePropertiesText = gradlePropertiesText.replace("version=${v}", "version=${nextVersion}")
+        gradleProperties.writeText(newGradlePropertiesText)
         try {
             runCommands("git tag -d $nextVersion")
         } catch (_: Exception) { }
-
         runCommands(
             "git add .",
             "git commit -m \"Version bump to $nextVersion\"",
@@ -76,10 +75,10 @@ tasks.register("pushNextVersion") {
             "git push",
         )
     }
-
 }
 
 tasks.register("pushRelease") {
+    group = "git"
     doLast {
         val v = project.version as String
 
