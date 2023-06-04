@@ -5,403 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08a09965-2476-40d1-85f8-51f54520ee2e" name="Changes" comment="init">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/declaration-generation/unreal-kotlin.declaration-generation.main.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build.gradle.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/META-INF/declaration-generation.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/corrections/CorrectionEnvironment$Companion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/corrections/CorrectionEnvironment$_unnamedClasses$2$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/corrections/CorrectionEnvironment$_unnamedClasses$2$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/corrections/CorrectionEnvironment$_unnamedClasses$2$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/corrections/CorrectionEnvironment$_unnamedClasses$2$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/corrections/CorrectionEnvironment$_unnamedClasses$2$invoke$$inlined$filterIsInstance$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/corrections/CorrectionEnvironment$_unnamedClasses$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/corrections/CorrectionEnvironment$allClassNames$$inlined$filterIsInstance$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/corrections/CorrectionEnvironment$allClassNames$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/corrections/CorrectionEnvironment$allClassNames$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/corrections/CorrectionEnvironment$allClassNames$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/corrections/CorrectionEnvironment$allTopLevelClasses$$inlined$filterIsInstance$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/corrections/CorrectionEnvironment$allTopLevelClasses$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/corrections/CorrectionEnvironment$allTopLevelClasses$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/corrections/CorrectionEnvironment$process$$inlined$filterIsInstance$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/corrections/CorrectionEnvironment$process$$inlined$filterIsInstance$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/corrections/CorrectionEnvironment$process$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/corrections/CorrectionEnvironment$process$10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/corrections/CorrectionEnvironment$process$11$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/corrections/CorrectionEnvironment$process$11.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/corrections/CorrectionEnvironment$process$12.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/corrections/CorrectionEnvironment$process$13.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/corrections/CorrectionEnvironment$process$17.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/corrections/CorrectionEnvironment$process$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/corrections/CorrectionEnvironment$process$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/corrections/CorrectionEnvironment$process$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/corrections/CorrectionEnvironment$process$6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/corrections/CorrectionEnvironment$process$7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/corrections/CorrectionEnvironment$process$8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/corrections/CorrectionEnvironment$process$9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/corrections/CorrectionEnvironment$writeFiles$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/corrections/CorrectionEnvironment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/corrections/Corrections.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/corrections/CorrectionsProvider.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/corrections/EnumCorrections$Companion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/corrections/EnumCorrections$doFirst$allEnums$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/corrections/EnumCorrections.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/corrections/FileFinalization$Companion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/corrections/FileFinalization$process$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/corrections/FileFinalization$process$imports$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/corrections/FileFinalization.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/corrections/NonClassMemberFileCorrections.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/corrections/StandardCorrections$Companion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/corrections/StandardCorrections.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/corrections/UnnamedClassCorrections$Companion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/corrections/UnnamedClassCorrections.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/AnnotationDeclaration$Companion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/AnnotationDeclaration$DefaultImpls.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/AnnotationDeclaration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/AnnotationDeclarationImpl$Companion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/AnnotationDeclarationImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/BaseJsNameDeclaration$removeJsName$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/BaseJsNameDeclaration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/ChildDeclaration$DefaultImpls.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/ChildDeclaration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/ClassDeclaration$Companion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/ClassDeclaration$DefaultImpls.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/ClassDeclaration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/ClassDeclarationImpl$Companion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/ClassDeclarationImpl$WhenMappings.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/ClassDeclarationImpl$isCompanion$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/ClassDeclarationImpl$isEnum$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/ClassDeclarationImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/ClassNameDeclaration$Companion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/ClassNameDeclaration$DefaultImpls.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/ClassNameDeclaration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/ClassNameDeclarationImpl$Companion$renameClass$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/ClassNameDeclarationImpl$Companion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/ClassNameDeclarationImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/CodeDeclaration$Companion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/CodeDeclaration$DefaultImpls.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/CodeDeclaration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/CodeDeclarationImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/Declaration$DefaultImpls.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/Declaration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/DeclarationMarker.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/DeclarationWithAnnotations$DefaultImpls.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/DeclarationWithAnnotations.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/DeclarationWithJsName$DefaultImpls.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/DeclarationWithJsName.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/DeclarationWithModifiers$DefaultImpls.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/DeclarationWithModifiers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/DeclarationWithName$DefaultImpls.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/DeclarationWithName.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/DynamicTypeNameDeclaration$Companion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/DynamicTypeNameDeclaration$DefaultImpls.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/DynamicTypeNameDeclaration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/ExtensionsKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/FileDeclaration$Companion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/FileDeclaration$DefaultImpls.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/FileDeclaration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/FileDeclarationImpl$Companion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/FileDeclarationImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/FunctionDeclaration$Companion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/FunctionDeclaration$DefaultImpls.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/FunctionDeclaration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/FunctionDeclarationImpl$Companion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/FunctionDeclarationImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/LambdaTypeNameDeclaration$Companion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/LambdaTypeNameDeclaration$DefaultImpls.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/LambdaTypeNameDeclaration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/LambdaTypeNameDeclarationImpl$Companion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/LambdaTypeNameDeclarationImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/PackageDeclaration$Companion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/PackageDeclaration$DefaultImpls.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/PackageDeclaration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/PackageDeclarationImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/ParameterDeclaration$Companion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/ParameterDeclaration$DefaultImpls.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/ParameterDeclaration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/ParameterDeclarationImpl$Companion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/ParameterDeclarationImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/ParameterizedTypeNameDeclaration$Companion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/ParameterizedTypeNameDeclaration$DefaultImpls.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/ParameterizedTypeNameDeclaration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/ParameterizedTypeNameDeclarationImpl$Companion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/ParameterizedTypeNameDeclarationImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/ParentDeclaration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/PropertyDeclaration$Companion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/PropertyDeclaration$DefaultImpls.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/PropertyDeclaration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/PropertyDeclarationImpl$Companion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/PropertyDeclarationImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/SuperInterfaceDeclaration$Companion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/SuperInterfaceDeclaration$DefaultImpls.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/SuperInterfaceDeclaration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/SuperInterfaceDeclarationImpl$Companion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/SuperInterfaceDeclarationImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/TypeAliasDeclaration$Companion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/TypeAliasDeclaration$DefaultImpls.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/TypeAliasDeclaration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/TypeAliasDeclarationImpl$Companion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/TypeAliasDeclarationImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/TypeNameDeclaration$Companion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/TypeNameDeclaration$DefaultImpls.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/TypeNameDeclaration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/TypeVariableNameDeclaration$Companion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/TypeVariableNameDeclaration$DefaultImpls.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/TypeVariableNameDeclaration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/TypeVariableNameDeclarationImpl$Companion$WhenMappings.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/TypeVariableNameDeclarationImpl$Companion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/TypeVariableNameDeclarationImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/VarianceDeclaration$Companion$WhenMappings.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/VarianceDeclaration$Companion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/VarianceDeclaration$In.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/VarianceDeclaration$Out.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/VarianceDeclaration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/WildcardTypeNameDeclaration$Companion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/WildcardTypeNameDeclaration$DefaultImpls.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/WildcardTypeNameDeclaration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/WildcardTypeNameDeclarationImpl$Companion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/declaration/WildcardTypeNameDeclarationImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/parsing/Accessor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/parsing/CallBlock$SuperCallBlock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/parsing/CallBlock$ThisCallBlock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/parsing/CallBlock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/parsing/ClassType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/parsing/Delegate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/parsing/Import.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/parsing/ImportDirective.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/parsing/Mutator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/parsing/ParsingContext.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/parsing/ParsingEnvironment$Companion$withSources$instance$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/parsing/ParsingEnvironment$Companion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/parsing/ParsingEnvironment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/parsing/ParsingEnvironmentImpl$PomModelImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/parsing/ParsingEnvironmentImpl$environment$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/parsing/ParsingEnvironmentImpl$ktPsiFactory$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/parsing/ParsingEnvironmentImpl$project$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/parsing/ParsingEnvironmentImpl$psiFileFactory$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/parsing/ParsingEnvironmentImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/parsing/ParsingVisitor$Companion$None.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/parsing/ParsingVisitor$Companion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/parsing/ParsingVisitor$TypeConstraint.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/parsing/ParsingVisitor$WhenMappings.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/parsing/ParsingVisitor$buildProperty$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/parsing/ParsingVisitor$visitAnnotation$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/parsing/ParsingVisitor$visitClass$1$WhenMappings.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/parsing/ParsingVisitor$visitClass$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/parsing/ParsingVisitor$visitConstructorCalleeExpression$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/parsing/ParsingVisitor$visitInitializerList$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/parsing/ParsingVisitor$visitNamedFunction$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/parsing/ParsingVisitor$visitObjectDeclaration$builder$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/parsing/ParsingVisitor$visitParameter$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/parsing/ParsingVisitor$visitPrimaryConstructor$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/parsing/ParsingVisitor$visitPropertyAccessor$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/parsing/ParsingVisitor$visitPropertyDelegate$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/parsing/ParsingVisitor$visitSecondaryConstructor$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/parsing/ParsingVisitor$visitSuperTypeCallEntry$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/parsing/ParsingVisitor$visitSuperTypeListEntry$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/parsing/ParsingVisitor$visitTypeAlias$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/parsing/ParsingVisitor$visitTypeConstraint$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/parsing/ParsingVisitor$visitTypeConstraintList$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/parsing/ParsingVisitor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/parsing/ParsingVisitorContext$Bookmark.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/parsing/ParsingVisitorContext.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/parsing/SuperCall.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/parsing/SuperType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/parsing/TypeProjection.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/utility/ClassDependencies.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/utility/DeclarationGeneratorKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/utility/GenerationEnvironment$AutoImports.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/utility/GenerationEnvironment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/utility/GenericClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/utility/ManagedDependencies.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/utility/RenameData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/utility/StringUtilitiesKt$toNumbersString$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/utility/StringUtilitiesKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/utility/UtilitiesKt$debounce$1$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/utility/UtilitiesKt$debounce$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/utility/UtilitiesKt$removeFirst$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/utility/UtilitiesKt$throttleFirst$1$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/utility/UtilitiesKt$throttleFirst$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/utility/UtilitiesKt$throttleLatest$1$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/utility/UtilitiesKt$throttleLatest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/classes/kotlin/main/com/detpros/unrealkotlin/utility/UtilitiesKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/inputs/source-to-output.tab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.keystream" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.keystream.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.values" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.values.at" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.values.s" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/inputs/source-to-output.tab_i" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/inputs/source-to-output.tab_i.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.keystream" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.keystream.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.values.at" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab_i" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab_i.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/constants.tab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/constants.tab.keystream" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/constants.tab.keystream.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/constants.tab.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/constants.tab.values.at" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/constants.tab_i" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/constants.tab_i.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/inline-functions.tab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/inline-functions.tab.keystream" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/inline-functions.tab.keystream.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/inline-functions.tab.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/inline-functions.tab.values.at" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/inline-functions.tab_i" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/inline-functions.tab_i.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.keystream" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.keystream.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.values.at" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab_i" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab_i.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.values" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.values.at" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.values.s" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab_i" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab_i.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab_i" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab_i.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.keystream" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.keystream.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.values.at" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab_i" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab_i.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.keystream" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.keystream.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.values.at" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab_i" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab_i.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/counters.tab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/file-to-id.tab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.keystream" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.keystream.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.values.at" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/file-to-id.tab_i" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/file-to-id.tab_i.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/id-to-file.tab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.values.at" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/id-to-file.tab_i" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/id-to-file.tab_i.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab.values" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab.values.at" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab.values.s" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab_i" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab_i.len" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/cacheable/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/classpath-snapshot/shrunk-classpath-snapshot.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/kotlin/compileKotlin/local-state/build-history.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/libs/declaration-generation-1.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/build/tmp/jar/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/corrections/CorrectionEnvironment.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/corrections/Corrections.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/corrections/CorrectionsProvider.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/corrections/EnumCorrections.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/corrections/FileFinalization.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/corrections/NonClassMemberFileCorrections.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/corrections/StandardCorrections.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/corrections/UnnamedClassCorrections.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/AnnotationDeclaration.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/AnnotationDeclarationImpl.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/BaseJsNameDeclaration.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/ChildDeclaration.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/ClassDeclaration.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/ClassDeclarationImpl.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/ClassNameDeclaration.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/ClassNameDeclarationImpl.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/CodeDeclaration.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/CodeDeclarationImpl.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/Declaration.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/DeclarationMarker.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/DeclarationWithAnnotations.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/DeclarationWithJsName.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/DeclarationWithModifiers.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/DeclarationWithName.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/DynamicTypeNameDeclaration.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/Extensions.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/FileDeclaration.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/FileDeclarationImpl.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/FunctionDeclaration.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/FunctionDeclarationImpl.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/LambdaTypeNameDeclaration.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/LambdaTypeNameDeclarationImpl.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/PackageDeclaration.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/PackageDeclarationImpl.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/ParameterDeclaration.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/ParameterDeclarationImpl.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/ParameterizedTypeNameDeclaration.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/ParameterizedTypeNameDeclarationImpl.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/ParentDeclaration.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/PropertyDeclaration.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/PropertyDeclarationImpl.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/SuperInterfaceDeclaration.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/SuperInterfaceDeclarationImpl.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/TypeAliasDeclaration.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/TypeAliasDeclarationImpl.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/TypeNameDeclaration.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/TypeVariableNameDeclaration.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/TypeVariableNameDeclarationImpl.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/VarianceDeclaration.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/WildcardTypeNameDeclaration.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/declaration/WildcardTypeNameDeclarationImpl.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/parsing/ParsingContext.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/parsing/ParsingEnvironment.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/parsing/ParsingUtils.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/parsing/ParsingVisitor.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/parsing/ParsingVisitorContext.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/utility/ClassDependencies.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/utility/DeclarationGenerator.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/utility/GenerationEnvironment.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/utility/GenericsClass.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/utility/RenameData.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/utility/StringUtilities.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/declaration-generation/src/main/kotlin/com/detpros/unrealkotlin/utility/Utilities.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jitpack.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/last-build.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/classpath-snapshot/shrunk-classpath-snapshot.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/classpath-snapshot/shrunk-classpath-snapshot.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/local-state/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/local-state/build-history.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -457,6 +68,12 @@
                 <item name="unreal-kotlin" type="f1a62948:ProjectNode" />
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
                 <item name="plugin development" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="unreal-kotlin" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="plugin portal" type="c8890929:TasksNode$1" />
               </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
@@ -521,7 +138,7 @@
       <recent name="G:\DetonateProductions\unreal-kotlin\declaration-generation\src\main\kotlin\com\detpros\unrealkotlin\utility" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.unreal-kotlin [pushRelease]">
+  <component name="RunManager" selected="Gradle.unreal-kotlin [publishPlugins]">
     <configuration name="unreal-kotlin [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -544,7 +161,7 @@
       <ForceTestExec>false</ForceTestExec>
       <method v="2" />
     </configuration>
-    <configuration name="unreal-kotlin [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="unreal-kotlin [login]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -555,7 +172,7 @@
         </option>
         <option name="taskNames">
           <list>
-            <option value="clean" />
+            <option value="login" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -566,7 +183,7 @@
       <ForceTestExec>false</ForceTestExec>
       <method v="2" />
     </configuration>
-    <configuration name="unreal-kotlin [publishUnreal-kotlinPluginMarkerMavenPublicationToGitHubPackagesRepository]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="unreal-kotlin [publishPlugins]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -577,7 +194,7 @@
         </option>
         <option name="taskNames">
           <list>
-            <option value="publishUnreal-kotlinPluginMarkerMavenPublicationToGitHubPackagesRepository" />
+            <option value="publishPlugins" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -634,11 +251,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.unreal-kotlin [publishPlugins]" />
+        <item itemvalue="Gradle.unreal-kotlin [login]" />
+        <item itemvalue="Gradle.unreal-kotlin [pushNextVersion]" />
         <item itemvalue="Gradle.unreal-kotlin [pushRelease]" />
         <item itemvalue="Gradle.unreal-kotlin [build]" />
-        <item itemvalue="Gradle.unreal-kotlin [clean]" />
-        <item itemvalue="Gradle.unreal-kotlin [publishUnreal-kotlinPluginMarkerMavenPublicationToGitHubPackagesRepository]" />
-        <item itemvalue="Gradle.unreal-kotlin [pushNextVersion]" />
       </list>
     </recent_temporary>
   </component>
@@ -655,7 +272,7 @@
       <workItem from="1685837405532" duration="1379000" />
       <workItem from="1685872935679" duration="561000" />
       <workItem from="1685873663724" duration="518000" />
-      <workItem from="1685876024853" duration="420000" />
+      <workItem from="1685876024853" duration="1464000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1685834633648</created>

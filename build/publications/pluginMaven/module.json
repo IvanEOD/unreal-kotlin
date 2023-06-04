@@ -1,0 +1,148 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.detpros.unrealkotlin",
+    "module": "unreal-kotlin",
+    "version": "1.0.6",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.1.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "files": [
+        {
+          "name": "unreal-kotlin-1.0.6.jar",
+          "url": "unreal-kotlin-1.0.6.jar",
+          "size": 65164,
+          "sha512": "5ae2a9044be58f55060861b2a20a3fe688fa0b4f38482ca2010e932e0959eea3fc13cb96d4d1680b7a2ad82fc4a85de3fee99652136668739deea7b7bb4633e8",
+          "sha256": "d84d40722669e72de86bcb8d57d245da6c29fc96012bce68da0957b90f4fc99c",
+          "sha1": "5c96c2d76b8d3e1e56fe35303d29c75535d8f5e0",
+          "md5": "f03113a485dc197303736c4aa0fc6987"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-gradle-plugin",
+          "version": {
+            "requires": "1.8.20"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.8.20"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-compiler-embeddable",
+          "version": {
+            "requires": "1.8.20"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-reflect",
+          "version": {
+            "requires": "1.8.20"
+          }
+        },
+        {
+          "group": "com.squareup",
+          "module": "kotlinpoet",
+          "version": {
+            "requires": "1.13.2"
+          }
+        },
+        {
+          "group": "com.detpros.unrealkotlin",
+          "module": "declaration-generation",
+          "version": {
+            "requires": "1.0.5"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "unreal-kotlin-1.0.6.jar",
+          "url": "unreal-kotlin-1.0.6.jar",
+          "size": 65164,
+          "sha512": "5ae2a9044be58f55060861b2a20a3fe688fa0b4f38482ca2010e932e0959eea3fc13cb96d4d1680b7a2ad82fc4a85de3fee99652136668739deea7b7bb4633e8",
+          "sha256": "d84d40722669e72de86bcb8d57d245da6c29fc96012bce68da0957b90f4fc99c",
+          "sha1": "5c96c2d76b8d3e1e56fe35303d29c75535d8f5e0",
+          "md5": "f03113a485dc197303736c4aa0fc6987"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "unreal-kotlin-1.0.6-javadoc.jar",
+          "url": "unreal-kotlin-1.0.6-javadoc.jar",
+          "size": 261,
+          "sha512": "98f38c100885bd5a985b5a1273a70c9c26b41fa36d40af5c6d85c957ccac6c9b8cd7075fd0c0a7e1144e2af3825b31939b693ba20766240894f3d92bb57d35e5",
+          "sha256": "e8fed6f65270b86f8dacf12dd13745e563a024fb5867303365e7b84abfca69cf",
+          "sha1": "0c5e22f71b0df113972a52a5f0effec3b7f6d311",
+          "md5": "7301b967ab06172b1369a7d50b360730"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "unreal-kotlin-1.0.6-sources.jar",
+          "url": "unreal-kotlin-1.0.6-sources.jar",
+          "size": 7316,
+          "sha512": "8357b07ec976516225ef5cad0825a2d8c959deddaa7ebfd446a3ec7c079dca5c6d7ca8af6b1cf4b7a1ca931d12e88478ff5e33837d83aea99d33e42012b5eafb",
+          "sha256": "22871a5c379deeb66d824f994b96f7201566da08e5f7d5cc23fa02d7d0926a11",
+          "sha1": "fd6784b21aaa66fb15c569015cd46d3fbf726447",
+          "md5": "b94a4dd149404bd0827769fcf1d57a58"
+        }
+      ]
+    }
+  ]
+}
