@@ -45,7 +45,7 @@ gradlePlugin {
         create("unreal-kotlin") {
             id = "unreal-kotlin"
             group = "com.detpros.unrealkotlin"
-            version = "1.0.0"
+            version = project.version
             implementationClass = "com.detpros.unrealkotlin.UnrealKotlinPlugin"
         }
     }
