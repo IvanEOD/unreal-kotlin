@@ -5,14 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08a09965-2476-40d1-85f8-51f54520ee2e" name="Changes" comment="init">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/last-build.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/classpath-snapshot/shrunk-classpath-snapshot.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/classpath-snapshot/shrunk-classpath-snapshot.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/local-state/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/local-state/build-history.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/libs/unreal-kotlin-1.0.6.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/unreal-kotlin-1.0.6.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/pluginDescriptors/unreal-kotlin.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/publications/pluginMaven/module.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/publications/pluginMaven/module.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/publications/unreal-kotlinPluginMarkerMaven/pom-default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/publications/unreal-kotlinPluginMarkerMaven/pom-default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/META-INF/gradle-plugins/unreal-kotlin.properties" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,12 +50,6 @@
                 <item name="unreal-kotlin" type="f1a62948:ProjectNode" />
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
                 <item name="build" type="c8890929:TasksNode$1" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="unreal-kotlin" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="git" type="c8890929:TasksNode$1" />
               </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
@@ -138,8 +132,8 @@
       <recent name="G:\DetonateProductions\unreal-kotlin\declaration-generation\src\main\kotlin\com\detpros\unrealkotlin\utility" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.unreal-kotlin [publishPlugins]">
-    <configuration name="unreal-kotlin [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager" selected="Gradle.unreal-kotlin [publishToMavenLocal]">
+    <configuration name="unreal-kotlin [generateMetadataFileForUnreal-kotlinPluginMarkerMavenPublication]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -150,7 +144,7 @@
         </option>
         <option name="taskNames">
           <list>
-            <option value="build" />
+            <option value="generateMetadataFileForUnreal-kotlinPluginMarkerMavenPublication" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -161,7 +155,7 @@
       <ForceTestExec>false</ForceTestExec>
       <method v="2" />
     </configuration>
-    <configuration name="unreal-kotlin [login]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="unreal-kotlin [generatePomFileForUnreal-kotlinPluginMarkerMavenPublication]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -172,7 +166,29 @@
         </option>
         <option name="taskNames">
           <list>
-            <option value="login" />
+            <option value="generatePomFileForUnreal-kotlinPluginMarkerMavenPublication" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <ForceTestExec>false</ForceTestExec>
+      <method v="2" />
+    </configuration>
+    <configuration name="unreal-kotlin [publishPluginMavenPublicationToMavenLocal]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="publishPluginMavenPublicationToMavenLocal" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -205,7 +221,7 @@
       <ForceTestExec>false</ForceTestExec>
       <method v="2" />
     </configuration>
-    <configuration name="unreal-kotlin [pushNextVersion]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="unreal-kotlin [publishToMavenLocal]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -216,29 +232,7 @@
         </option>
         <option name="taskNames">
           <list>
-            <option value="pushNextVersion" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <ForceTestExec>false</ForceTestExec>
-      <method v="2" />
-    </configuration>
-    <configuration name="unreal-kotlin [pushRelease]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="pushRelease" />
+            <option value="publishToMavenLocal" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -251,11 +245,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.unreal-kotlin [publishToMavenLocal]" />
+        <item itemvalue="Gradle.unreal-kotlin [publishPluginMavenPublicationToMavenLocal]" />
+        <item itemvalue="Gradle.unreal-kotlin [generateMetadataFileForUnreal-kotlinPluginMarkerMavenPublication]" />
+        <item itemvalue="Gradle.unreal-kotlin [generatePomFileForUnreal-kotlinPluginMarkerMavenPublication]" />
         <item itemvalue="Gradle.unreal-kotlin [publishPlugins]" />
-        <item itemvalue="Gradle.unreal-kotlin [login]" />
-        <item itemvalue="Gradle.unreal-kotlin [pushNextVersion]" />
-        <item itemvalue="Gradle.unreal-kotlin [pushRelease]" />
-        <item itemvalue="Gradle.unreal-kotlin [build]" />
       </list>
     </recent_temporary>
   </component>
@@ -273,6 +267,13 @@
       <workItem from="1685872935679" duration="561000" />
       <workItem from="1685873663724" duration="518000" />
       <workItem from="1685876024853" duration="1464000" />
+      <workItem from="1685877705254" duration="2849000" />
+      <workItem from="1685880605842" duration="802000" />
+      <workItem from="1685881430955" duration="151000" />
+      <workItem from="1685881612754" duration="106000" />
+      <workItem from="1685881731652" duration="1603000" />
+      <workItem from="1685883557323" duration="248000" />
+      <workItem from="1685883820513" duration="82000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1685834633648</created>
@@ -309,7 +310,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685836284228</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="init">
+      <created>1685878039478</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1685878039479</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -6,10 +6,10 @@ plugins {
     signing
 }
 
-fun property(key: String) = providers.gradleProperty(key).get()
+fun properties(key: String) = providers.gradleProperty(key).get()
 fun environment(key: String) = providers.environmentVariable(key).get()
 
-val kotlinVersion = property("kotlin.version")
+val kotlinVersion = properties("kotlin.version")
 
 tasks {
     wrapper {
@@ -17,16 +17,16 @@ tasks {
     }
 }
 
-group = property("group")
-version = property("version")
+group = properties("group")
+version = properties("version")
 
 allprojects {
 
-    fun property(key: String) = providers.gradleProperty(key).get()
+    fun properties(key: String) = providers.gradleProperty(key).get()
     fun environment(key: String) = providers.environmentVariable(key).get()
 
-    group = property("group")
-    version = property("version")
+    group = properties("group")
+    version = properties("version")
 
     repositories {
         mavenCentral()
@@ -57,12 +57,22 @@ gradlePlugin {
     vcsUrl.set("https://github.com/IvanEOD/unreal-kotlin")
     plugins {
         create("unreal-kotlin") {
-            id = "unreal-kotlin"
+            id = "com.detpros.unrealkotlin.unreal-kotlin"
             group = "com.detpros.unrealkotlin"
             version = project.version
             implementationClass = "com.detpros.unrealkotlin.UnrealKotlinPlugin"
             displayName = "Unreal Kotlin"
             description = "Unreal Kotlin Gradle Plugin for using Kotlin with Unreal Engine 5"
+            tags.set(setOf("unreal", "engine", "unreal-engine", "kotlin"))
         }
     }
+}
+
+
+signing {
+    val signingKeyPath = environment("GRADLE_SIGNING_KEY_PATH")
+    val signingKey = file(signingKeyPath).readText()
+    val signingPassword = environment("GRADLE_SIGNING_PASSWORD")
+    useInMemoryPgpKeys(signingKey, signingPassword)
+    sign(publishing.publications)
 }
