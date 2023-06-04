@@ -3,7 +3,7 @@
   "component": {
     "group": "com.detpros.unrealkotlin",
     "module": "unreal-kotlin",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -27,13 +27,13 @@
       },
       "files": [
         {
-          "name": "unreal-kotlin-1.0.2.jar",
-          "url": "unreal-kotlin-1.0.2.jar",
+          "name": "unreal-kotlin-1.0.3.jar",
+          "url": "unreal-kotlin-1.0.3.jar",
           "size": 65164,
-          "sha512": "9afe3a0cf11712e52c5c582e2b7a67fe2a6437158260bcfd2558613aa837b5b416756b1e424b7d1e58deeeee30b692d867bb053bf35806a1e935434a33e37894",
-          "sha256": "220de5638f918eb4f1f8a5be4e006e5aec848877c2619aaac9d075940c923d5f",
-          "sha1": "4bb6ace67050773e51a3c8258490efb1aff1e2c1",
-          "md5": "31534ce7cbaf1464ad88799a91dfc0ae"
+          "sha512": "54378e182537b0d9463fd47564a7e386fe377996562cbaecace740c3998a0d5339634206366635e2c52e1072fee56566f02a5eb12eb8368f0ac0d5acbedb7653",
+          "sha256": "133813b0fd05a2aebaae86f988ba7cb8c9450f34b32ff8389bebfca81a4a14b7",
+          "sha1": "63fbddb1035ea1d0daacae6398499900e632eae2",
+          "md5": "3423ca400473b63299bd5a2f83977c5d"
         }
       ]
     },
@@ -94,13 +94,13 @@
       ],
       "files": [
         {
-          "name": "unreal-kotlin-1.0.2.jar",
-          "url": "unreal-kotlin-1.0.2.jar",
+          "name": "unreal-kotlin-1.0.3.jar",
+          "url": "unreal-kotlin-1.0.3.jar",
           "size": 65164,
-          "sha512": "9afe3a0cf11712e52c5c582e2b7a67fe2a6437158260bcfd2558613aa837b5b416756b1e424b7d1e58deeeee30b692d867bb053bf35806a1e935434a33e37894",
-          "sha256": "220de5638f918eb4f1f8a5be4e006e5aec848877c2619aaac9d075940c923d5f",
-          "sha1": "4bb6ace67050773e51a3c8258490efb1aff1e2c1",
-          "md5": "31534ce7cbaf1464ad88799a91dfc0ae"
+          "sha512": "54378e182537b0d9463fd47564a7e386fe377996562cbaecace740c3998a0d5339634206366635e2c52e1072fee56566f02a5eb12eb8368f0ac0d5acbedb7653",
+          "sha256": "133813b0fd05a2aebaae86f988ba7cb8c9450f34b32ff8389bebfca81a4a14b7",
+          "sha1": "63fbddb1035ea1d0daacae6398499900e632eae2",
+          "md5": "3423ca400473b63299bd5a2f83977c5d"
         }
       ]
     }
