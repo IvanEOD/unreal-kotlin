@@ -49,6 +49,12 @@
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="unreal-kotlin" type="f1a62948:ProjectNode" />
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="git" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="unreal-kotlin" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
                 <item name="other" type="c8890929:TasksNode$1" />
               </path>
               <path>
@@ -149,28 +155,6 @@
       <ForceTestExec>false</ForceTestExec>
       <method v="2" />
     </configuration>
-    <configuration name="unreal-kotlin [generatePomFileForUnreal-kotlinPluginMarkerMavenPublication]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="generatePomFileForUnreal-kotlinPluginMarkerMavenPublication" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <ForceTestExec>false</ForceTestExec>
-      <method v="2" />
-    </configuration>
     <configuration name="unreal-kotlin [publishPluginMavenPublicationToMavenLocal]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -215,6 +199,28 @@
       <ForceTestExec>false</ForceTestExec>
       <method v="2" />
     </configuration>
+    <configuration name="unreal-kotlin [pushNextVersion]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="pushNextVersion" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <ForceTestExec>false</ForceTestExec>
+      <method v="2" />
+    </configuration>
     <configuration name="unreal-kotlin [pushRelease]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -240,10 +246,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Gradle.unreal-kotlin [pushRelease]" />
+        <item itemvalue="Gradle.unreal-kotlin [pushNextVersion]" />
         <item itemvalue="Gradle.unreal-kotlin [publishToMavenLocal]" />
         <item itemvalue="Gradle.unreal-kotlin [publishPluginMavenPublicationToMavenLocal]" />
         <item itemvalue="Gradle.unreal-kotlin [generateMetadataFileForUnreal-kotlinPluginMarkerMavenPublication]" />
-        <item itemvalue="Gradle.unreal-kotlin [generatePomFileForUnreal-kotlinPluginMarkerMavenPublication]" />
       </list>
     </recent_temporary>
   </component>
@@ -268,7 +274,7 @@
       <workItem from="1685881731652" duration="1603000" />
       <workItem from="1685883557323" duration="248000" />
       <workItem from="1685883820513" duration="82000" />
-      <workItem from="1685884054960" duration="346000" />
+      <workItem from="1685884054960" duration="845000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1685834633648</created>

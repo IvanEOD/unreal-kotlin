@@ -6,8 +6,8 @@ plugins {
     signing
 }
 
-fun properties(key: String) = providers.gradleProperty(key).get()
-fun environment(key: String) = providers.environmentVariable(key).get()
+fun properties(key: String) = providers.gradleProperty(key).orNull
+fun environment(key: String) = providers.environmentVariable(key).orNull
 
 val kotlinVersion = properties("kotlin.version")
 
@@ -17,8 +17,8 @@ tasks {
     }
 }
 
-group = properties("group")
-version = properties("version")
+group = properties("group")!!
+version = properties("version")!!
 
 allprojects {
 
@@ -128,7 +128,7 @@ gradlePlugin {
 
 signing {
     val signingKeyPath = environment("GRADLE_SIGNING_KEY_PATH")
-    val signingKey = file(signingKeyPath).readText()
+    val signingKey = environment("GRADLE_SIGNING_KEY") ?: file(signingKeyPath!!).readText()
     val signingPassword = environment("GRADLE_SIGNING_PASSWORD")
     useInMemoryPgpKeys(signingKey, signingPassword)
     sign(publishing.publications)
