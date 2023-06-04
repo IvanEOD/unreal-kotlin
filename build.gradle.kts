@@ -25,6 +25,13 @@ allprojects {
 
     repositories {
         mavenCentral()
+        maven {
+            url = uri("https://maven.pkg.github.com/IvanEOD/declaration-generation")
+            credentials {
+                username = environment("GITHUB_PACKAGES_USERID")
+                password = environment("GITHUB_PACKAGES_IMPORT_TOKEN")
+            }
+        }
     }
 
 }
@@ -36,7 +43,7 @@ dependencies {
     implementation(kotlin("compiler-embeddable"))
     implementation(kotlin("reflect"))
     implementation("com.squareup:kotlinpoet:1.13.2")
-    implementation(project(":declaration-generation"))
+    implementation("com.detpros.unrealkotlin:declaration-generation:1.0.5")
 }
 
 
