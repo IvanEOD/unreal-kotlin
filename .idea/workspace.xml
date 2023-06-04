@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08a09965-2476-40d1-85f8-51f54520ee2e" name="Changes" comment="init">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/unreal-kotlin-1.0.6.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/unreal-kotlin-1.0.6.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/pluginDescriptors/unreal-kotlin.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/publications/pluginMaven/module.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/publications/pluginMaven/module.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/publications/unreal-kotlinPluginMarkerMaven/pom-default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/publications/unreal-kotlinPluginMarkerMaven/pom-default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/META-INF/gradle-plugins/unreal-kotlin.properties" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -274,6 +268,7 @@
       <workItem from="1685881731652" duration="1603000" />
       <workItem from="1685883557323" duration="248000" />
       <workItem from="1685883820513" duration="82000" />
+      <workItem from="1685884054960" duration="346000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1685834633648</created>
@@ -317,7 +312,21 @@
       <option name="project" value="LOCAL" />
       <updated>1685878039479</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="init">
+      <created>1685884128268</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1685884128268</updated>
+    </task>
+    <task id="LOCAL-00008" summary="init">
+      <created>1685884138928</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1685884138928</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

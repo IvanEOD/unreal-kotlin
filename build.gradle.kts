@@ -52,6 +52,63 @@ dependencies {
 }
 
 
+tasks.register("pushNextVersion") {
+    group = "git"
+    doLast {
+        val v = project.version as String
+        val versionParts = v.split(".")
+        val nextVersion = "${versionParts[0]}.${versionParts[1]}.${versionParts[2].toInt() + 1}"
+        println("Next version: $nextVersion")
+        project.version = nextVersion
+        val gradleProperties = project.file("gradle.properties")
+        val gradlePropertiesText = gradleProperties.readText()
+        val newGradlePropertiesText = gradlePropertiesText.replace("version=${v}", "version=${nextVersion}")
+        gradleProperties.writeText(newGradlePropertiesText)
+        try {
+            runCommands("git tag -d $nextVersion")
+        } catch (_: Exception) { }
+        runCommands(
+            "git add .",
+            "git commit -m \"Version bump to $nextVersion\"",
+            "git status",
+            "git tag $nextVersion",
+            "git push --tags",
+            "git push",
+        )
+    }
+}
+
+tasks.register("pushRelease") {
+    group = "git"
+    doLast {
+        val v = project.version as String
+
+        try {
+            runCommands("git tag -d $v")
+        } catch (_: Exception) { }
+
+        runCommands(
+            "git add .",
+            "git commit -m \"Updating version $v\"",
+            "git status",
+            "git tag $v",
+            "git push --tags",
+            "git push",
+        )
+    }
+}
+
+fun runCommands(vararg commands: String) {
+    commands.forEach {
+        println("Running command: $it")
+        val process = Runtime.getRuntime().exec(it)
+        process.waitFor()
+        val output = process.inputStream.bufferedReader().readText()
+        if (output.isNotEmpty()) println("Command output: $output")
+    }
+}
+
+
 gradlePlugin {
     website.set("https://github.com/IvanEOD/unreal-kotlin")
     vcsUrl.set("https://github.com/IvanEOD/unreal-kotlin")
