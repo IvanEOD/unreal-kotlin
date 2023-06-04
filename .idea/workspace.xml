@@ -130,29 +130,7 @@
       <recent name="G:\DetonateProductions\unreal-kotlin\declaration-generation\src\main\kotlin\com\detpros\unrealkotlin\utility" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.unreal-kotlin [generatePomFileForGprPublication]">
-    <configuration name="unreal-kotlin [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="build" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <ForceTestExec>false</ForceTestExec>
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Gradle.unreal-kotlin [pushRelease]">
     <configuration name="unreal-kotlin [generatePomFileForGprPublication]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -241,13 +219,35 @@
       <ForceTestExec>false</ForceTestExec>
       <method v="2" />
     </configuration>
+    <configuration name="unreal-kotlin [pushRelease]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="pushRelease" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <ForceTestExec>false</ForceTestExec>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.unreal-kotlin [pushRelease]" />
         <item itemvalue="Gradle.unreal-kotlin [generatePomFileForGprPublication]" />
         <item itemvalue="Gradle.unreal-kotlin [publishAllPublicationsToGitHubPackagesRepository]" />
         <item itemvalue="Gradle.unreal-kotlin [pushNextVersion]" />
         <item itemvalue="Gradle.unreal-kotlin [publishUnreal-kotlinPluginMarkerMavenPublicationToGitHubPackagesRepository]" />
-        <item itemvalue="Gradle.unreal-kotlin [build]" />
       </list>
     </recent_temporary>
   </component>
