@@ -109,7 +109,29 @@
       <recent name="G:\DetonateProductions\unreal-kotlin\declaration-generation\src\main\kotlin\com\detpros\unrealkotlin\utility" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.unreal-kotlin [publish]">
+  <component name="RunManager" selected="Gradle.unreal-kotlin [pushRelease]">
+    <configuration name="unreal-kotlin [publishAllPublicationsToGitHubPackagesRepository]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="publishAllPublicationsToGitHubPackagesRepository" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <ForceTestExec>false</ForceTestExec>
+      <method v="2" />
+    </configuration>
     <configuration name="unreal-kotlin [publishGprPublicationToGitHubPackagesRepository]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -154,6 +176,28 @@
       <ForceTestExec>false</ForceTestExec>
       <method v="2" />
     </configuration>
+    <configuration name="unreal-kotlin [pushNextVersion]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="pushNextVersion" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <ForceTestExec>false</ForceTestExec>
+      <method v="2" />
+    </configuration>
     <configuration name="unreal-kotlin [pushRelease]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -178,9 +222,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.unreal-kotlin [pushRelease]" />
+        <item itemvalue="Gradle.unreal-kotlin [pushNextVersion]" />
+        <item itemvalue="Gradle.unreal-kotlin [publishAllPublicationsToGitHubPackagesRepository]" />
         <item itemvalue="Gradle.unreal-kotlin [publish]" />
         <item itemvalue="Gradle.unreal-kotlin [publishGprPublicationToGitHubPackagesRepository]" />
-        <item itemvalue="Gradle.unreal-kotlin [pushRelease]" />
       </list>
     </recent_temporary>
   </component>
@@ -194,6 +240,7 @@
       <updated>1683393234827</updated>
       <workItem from="1685833718838" duration="1492000" />
       <workItem from="1685836024399" duration="585000" />
+      <workItem from="1685837405532" duration="397000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1685834633648</created>
