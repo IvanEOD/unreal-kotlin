@@ -20,6 +20,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.PUBLISH_TOKEN }}
           GITHUB_PACKAGES_USERID: ${{ secrets.PUBLISH_USERID }}
           GITHUB_PACKAGES_PUBLISH_TOKEN: ${{ secrets.PUBLISH_TOKEN }}
+          GRADLE_SIGNING_KEY_PATH: ${{ secrets.GRADLE_SIGNING_KEY_PATH }}
+          GRADLE_SIGNING_KEY: ${{ secrets.GRADLE_SIGNING_KEY }}
+          GRADLE_SIGNING_PASSWORD: ${{ secrets.GRADLE_SINGING_PASSWORD }}
         with:
           allowUpdates: true
           makeLatest: true
